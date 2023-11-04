@@ -1,5 +1,3 @@
-# Zach Brogan
-
 My barebones landing page
 
 - [Resume](https://resume.zachbrogan.com)
